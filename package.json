@@ -1,0 +1,24 @@
+{
+    "name": "gestion-de-produit",
+    "private": true,
+    "scripts": {
+        "develop": "gridsome develop",
+        "explore": "gridsome explore",
+        "build": "gridsome build"
+    },
+    "dependencies": {
+        "axios": "^0.26.1",
+        "build": "^0.1.4",
+        "bulma": "^0.9.4",
+        "develop": "^1.0.0",
+        "gridsome": "^0.7.0",
+        "material-icons": "^1.10.7",
+        "material-ui": "^0.20.2",
+        "materialize-css": "^1.0.0-rc.2",
+        "sass": "^1.51.0",
+        "sass-loader": "^10"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-router": "~5.0.0"
+    }
+}
